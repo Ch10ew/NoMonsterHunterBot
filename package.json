@@ -1,0 +1,17 @@
+{
+  "name": "no-monster-hunter-bot",
+  "version": "1.0.0",
+  "description": "A discord bot that replies with \"No, Monster Hunter\" and a gif when wild/wilds is mentioned.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.15.2"
+  },
+  "devDependencies": {
+    "eslint": "^9.2.0"
+  }
+}
